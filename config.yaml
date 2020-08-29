@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://truthfail.netlify.app"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "truth.fail"
 pygmentsstyle: 'monokai'
 
 # Theme settings
