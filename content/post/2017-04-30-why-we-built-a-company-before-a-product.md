@@ -1,9 +1,10 @@
 ---
-title: Why we built a company before building a product and why it worked
+title: Russia Wins on a Trump/Biden Ticket
 date: 2017-04-30
 hero: "/images/hero-6.jpg"
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
-  apps in the U.S, along with Uber, Lyft.
+excerpt: 'Economic, social, and political catastrophe begin to get at the severity
+  of the consequences the US faces because it is particularly susceptible to the power
+  of the Russian''s ability to wage an infowar via the simplest means: social media..'
 timeToRead: 3
 authors:
 - Thiago Costa
@@ -12,17 +13,7 @@ draft: true
 ---
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
-
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
-
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+Economic, social, and political catastrophe begin to get at the severity of the consequences the US faces because it is particularly susceptible to the power of the Russian's ability to wage an infowar via the simplest means: social media..
 
 ```js
 import React from "react";
@@ -114,15 +105,15 @@ export default props => (
 
 These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
 
----
+***
 
 Hyphens
 
----
+***
 
 Asterisks
 
----
+***
 
 Underscores
 
@@ -140,7 +131,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-   ⋅⋅\* Unordered sub-list.
+   ⋅⋅* Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number
    ⋅⋅1. Ordered sub-list
 4. And another item.
@@ -151,8 +142,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Unordered list can use asterisks
+* Unordered list can use asterisks
+
 
 * Or minuses
 
-- Or pluses
+
+* Or pluses
