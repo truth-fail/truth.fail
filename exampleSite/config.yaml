@@ -1,6 +1,6 @@
-baseURL: "https://truth.fail"
+baseURL: "https://example.com"
 languageCode: "en-us"
-title: "truth.fail"
+title: "Hugo Novela"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
