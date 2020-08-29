@@ -13,7 +13,7 @@ draft: true
 ---
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
-Economic, social, and political catastrophe highlight some of the most severe consequences the US faces because it is particularly susceptible to the power of the Russian's ability to wage an infowar via the simplest means: social media.
+Economic, social, and political catastrophe highlight some of the most severe consequences the US faces because its history makes it particularly susceptible to the power of the Russian's ability to wage an infowar via the simplest means: social media.
 
 ```js
 import React from "react";
