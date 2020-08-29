@@ -1,5 +1,3 @@
-module github.com/forestryio/novela-hugo-starter
+module github.com/forestryio/hugo-theme-novela
 
-go 1.15
-
-require github.com/forestryio/hugo-theme-novela v0.0.0-20200807150328-811b4ca4ebef // indirect
+go 1.13
